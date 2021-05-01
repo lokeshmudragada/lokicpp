@@ -27,7 +27,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = ['*']
 
-ALLOWED_HOSTS = ['flame-env.eba-dc7smkrw.us-east-1.elasticbeanstalk.com','4d7447ee1a744295a90774dc5c1b6892.vfs.cloud9.us-east-1.amazonaws.com', 'master.d3eah2eh23e4qg.amplifyapp.com']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
